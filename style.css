@@ -1,0 +1,55 @@
+body{
+    margin:0;
+text-align: center;
+
+}
+.bob{
+
+    border-radius: 0%;
+     width: 450x;
+     height: 500px;
+}
+#windows{
+    bottom:0;
+   background:linear-gradient(rgb(39, 37, 37) 0%, rgb(0, 0, 0) 100%);
+display:table;
+width:100%;
+height:80%;
+z-index:9 ;
+}
+#inicio{
+    background:linear-gradient(rgb(38, 93, 243) 0%,rbg rgb(38, 103, 245) 100%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:table;
+font-weight: 250;
+
+}
+
+.mynavbar{
+    position:sticky;
+    top:0;
+    z-index:9;
+}
+
+.links{
+    padding:inline;
+    padding-left:50px;
+    padding-right:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.links.houver{
+ font-size:28px;
+}
+
+#contatos iframe{
+    width 90%;
+}
+
+.contatos_h3{
+    display:inline;
+    padding-bottom:25px;
+}
+
+
+
